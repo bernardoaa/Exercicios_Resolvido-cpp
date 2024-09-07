@@ -12,7 +12,7 @@ Este repositório contém as minhas soluções para os exercícios propostos na 
 * **IDE:** Visual Studio Code
 
 ## Como usar
-1. **Clone o repositório:** `git clone https://github.com/seu-usuario/Solucoes-C++.git`
+1. **Clone o repositório:** `git clone https://github.com/bernardoaa/Solucoes-C++.git`
 2. **Navegue até o diretório do projeto:** `cd Solucoes-C++`
 3. **Compile o código:** `g++ nome_do_arquivo.cpp -o nome_do_executavel`
 4. **Execute o programa:** `./nome_do_executavel`
