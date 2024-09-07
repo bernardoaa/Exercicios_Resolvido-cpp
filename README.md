@@ -1,8 +1,4 @@
-# Exercicios_Resolvido-cpp
- Exercícios resolvido por mim no meu primeiro ano de faculdade, na cadeira de Informática 2(Introdução a Programação com a linguagem C++).
-
-
- # Soluções para os Exercícios de Introdução à Programação em C++
+# Soluções para os Exercícios de Introdução à Programação em C++
 
 Este repositório contém as minhas soluções para os exercícios propostos na disciplina de Informática 2 (Introdução à Programação em C++). O objetivo é documentar meu aprendizado e compartilhar minhas soluções com outros estudantes. São Exercícios resolvido por mim no meu primeiro ano de faculdade.
 
